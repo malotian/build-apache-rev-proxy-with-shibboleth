@@ -22,6 +22,7 @@
 3. download httpd-2.4.41.tar.gz from https://httpd.apache.org/download.cgi
 4. download openssl-1.1.1e.tar.gz from https://www.openssl.org/source
 
+sample downloads
 
 	[psoft@pmhpsssodz01vt app]$ ls -l /home/psoft/temp/*.gz
 	-rw-rw-r--. 1 psoft psoft 1093896 Aug  7 04:51 /home/psoft/temp/apr-1.7.0.tar.gz
